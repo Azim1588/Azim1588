@@ -1,4 +1,4 @@
-## I'm Azim Khamis👋
+##  HI👋 I'm, Azim
 
 🔧 Data Engineer | 🚀 Turning Data into Insights | 📊 Big Data Enthusiast
 
