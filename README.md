@@ -18,8 +18,7 @@ Passionate about building robust data pipelines, optimizing data workflows, and 
 - **Cloud Platforms:** AWS, Google Cloud (BigQuery, Cloud Storage)
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **ETL/ELT:** Data Pipeline Design, Data Warehousing, Real-Time Processing
-- **Tools:** Docker, Kubernetes, Terraform
-
+- 
 🚀 **Always Learning:** Continuously exploring the latest in data engineering, machine learning, and cloud technologies to stay ahead of the curve.
 
 🌍 **Open to Collaboration:** Interested in open-source projects, data-driven initiatives, and innovative tech solutions.
